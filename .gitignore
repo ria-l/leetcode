@@ -1,8 +1,2 @@
-node_modules
-package-lock.json
-package.json
-eslintrc.json
-.vscode/launch.json
-.vscode
-.ds_store
-sandbox.js
+.DS_Store
+dev
